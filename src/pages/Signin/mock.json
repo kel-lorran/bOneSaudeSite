@@ -1,0 +1,25 @@
+{
+    "uid":"Vh92bVWQxnTnRpprdl6EtLPTkD02",
+    "email":"test1@test.com",
+    "emailVerified":false,
+    "isAnonymous":false,
+    "providerData":[
+        {
+            "providerId":"password",
+            "uid":"test1@test.com",
+            "displayName":null,
+            "email":"test1@test.com",
+            "phoneNumber":null,
+            "photoURL":null
+        }
+    ],
+    "stsTokenManager":{
+        "refreshToken":"",
+        "accessToken":"",
+        "expirationTime":1713630498533
+    },
+    "createdAt":"1713626897607",
+    "lastLoginAt":"1713626897607",
+    "apiKey":"AIzaSyD4PcdP2-2Iu60sZ_TxgnviJ0xslHZKzA0",
+    "appName":"[DEFAULT]"
+}
